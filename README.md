@@ -12,7 +12,11 @@ npm i @alessiopremoli/urlify
 import it in your file:
 
 ```js
-const { urlify } = from '@alessiopremoli/urlify';
+import { urlify } from '@alessiopremoli/urlify';
+```
+
+```js
+const { urlify } = require('@alessiopremoli/urlify');
 ```
 
 ## Usage
